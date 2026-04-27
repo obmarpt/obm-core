@@ -1,0 +1,20 @@
+# =========================
+# OMD Network - Core Config
+# =========================
+
+smp-worlds:
+  - world
+  - world_nether
+  - world_the_end
+
+uhc-worlds:
+  - UHC
+  - UHC_nether
+  - UHC_the_end
+
+combatlog:
+  timeout: 10000
+
+lobby:
+  world: Lobby
+  day-time: 1000
