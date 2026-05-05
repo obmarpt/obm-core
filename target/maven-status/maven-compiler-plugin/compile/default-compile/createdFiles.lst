@@ -5,5 +5,6 @@ com\obm\network\core\storage\DataStore.class
 com\obm\network\core\time\TimeTracker$1.class
 com\obm\network\core\time\TimeTrackerPerWorld$1.class
 com\obm\network\core\time\TimeTrackerPerWorld.class
+com\obm\network\core\papi\OBMExpansion.class
 com\obm\network\core\combat\CombatLogService.class
 com\obm\network\core\OBMCorePlugin.class

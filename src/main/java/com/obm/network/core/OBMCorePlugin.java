@@ -30,6 +30,11 @@ public class OBMCorePlugin extends JavaPlugin {
         // 📍 Localização
         new LastLocationTracker();
 
+        if (getServer().getPluginManager().getPlugin("PlaceholderAPI") != null) {
+            new com.obm.network.core.papi.OBMExpansion().register();
+            getLogger().info("✅ PlaceholderAPI Expansion registada");
+        }
+
         getLogger().info("✅ OBM-Core iniciado (Time, Combat, Location ativos)");
     }
 
