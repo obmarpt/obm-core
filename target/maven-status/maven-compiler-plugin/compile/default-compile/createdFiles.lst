@@ -1,1 +1,9 @@
+com\obm\network\core\world\WorldModeService.class
+com\obm\network\core\time\TimeTracker.class
+com\obm\network\core\location\LastLocationTracker.class
+com\obm\network\core\storage\DataStore.class
+com\obm\network\core\time\TimeTracker$1.class
+com\obm\network\core\time\TimeTrackerPerWorld$1.class
+com\obm\network\core\time\TimeTrackerPerWorld.class
+com\obm\network\core\combat\CombatLogService.class
 com\obm\network\core\OBMCorePlugin.class
